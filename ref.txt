@@ -1,0 +1,8 @@
+https://docs.alchemy.com/docs/how-to-build-a-staking-dapp
+https://github.com/scaffold-eth/se-2-challenges
+
+yarn chain
+yarn deploy or yarn deploy --reset
+yarn start
+
+In this behavior, I don't understand the widthdraw function
